@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Comin. 👋
+
+I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of time doing web development, which is why a lot of my repositories are HTML/JS based.
 
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
