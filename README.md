@@ -2,6 +2,7 @@
 
 I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of time doing web development, which is why a lot of my repositories are HTML/JS based.
 
+When I'm not doing dev work, you can find me either watching anime or YouTube, playing games, or doing something outside.
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
