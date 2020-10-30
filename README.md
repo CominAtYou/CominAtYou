@@ -1,8 +1,10 @@
 ### Hi there, I'm Comin. 👋
 
-I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of my time doing Discord bot and web development, which is why a lot of my repositories are HTML/JS based.
+I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of my time doing Discord bot and web development, which is why a lot of my repositories are HTML/JS based. (a lot of which are private repositories because they're personal projects)
 
-When I'm not doing dev work, you can find me either watching anime or YouTube, playing games, screaming at homework, or doing something outside.
+#
+
+When I'm not doing dev work, you can find me either watching anime or YouTube, playing games, screaming at homework or my Ubuntu server (shell scripts are *fun*), or doing something outside.
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
