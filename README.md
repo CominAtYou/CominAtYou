@@ -8,7 +8,7 @@ When I'm not doing dev work, you can find me either watching anime or YouTube, p
 
 #
 Here's a pie chart of my language distribution that nobody asked for:
-![](https://cdn.cominatyou.com/piechart.png)
+![](https://cdn.cominatyou.com/piechart-400.png)
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
