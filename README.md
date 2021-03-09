@@ -4,7 +4,7 @@ I'm a high school student who spends most of my time playing video games and wat
 
 #
 
-When I'm not doing dev work, you can find me either watching anime or YouTube, playing games (most likely A Hat in Time), screaming at homework or my Ubuntu server (shell scripts are *fun*), screwing around with Arch, yelling at Docker, or doing something outside.
+When I'm not doing dev work, you can find me either watching anime or YouTube, playing games (most likely A Hat in Time), screaming at homework or my Ubuntu server (shell scripts are *fun*), wasting hours in various Discord Servers, or attempting to make food.
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
