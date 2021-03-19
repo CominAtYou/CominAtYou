@@ -1,6 +1,6 @@
 ### Hi there, I'm Comin. 👋
 
-I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of my time doing Discord bot and web development, which is why a lot of my repositories are HTML and/or JS based (A lot of which are private repositories because they're personal projects).
+I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of my time doing Discord bot and Android development, which is why a lot of my repositories are HTML and/or JS based (A lot of which are private repositories because they're personal projects).
 
 #
 
