@@ -2,7 +2,9 @@
 
 I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of my time doing Discord bot and Android development, which is why a lot of my repositories are HTML and/or JS based (A lot of which are private repositories because they're personal projects).
 
-#
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/245047280908894209?hideDiscrim=true)](https://discord.com/users/245047280908894209)
+
 
 When I'm not doing dev work, you can find me either watching anime or YouTube, playing games (most likely A Hat in Time), screaming at homework or my Ubuntu server (shell scripts are *fun*), wasting hours in various Discord Servers, or attempting to make food.
 <!--
