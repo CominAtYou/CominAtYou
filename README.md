@@ -21,6 +21,7 @@ I prefer TypeScript for most of my projects, but also use:
 - Java
 - Python
 - JavaScript (Node)
+- Kotlin (Android)
 - HTML/CSS/JS
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
