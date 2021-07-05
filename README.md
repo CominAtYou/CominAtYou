@@ -6,7 +6,8 @@ I'm a high school student who spends most of my time playing video games and wat
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/245047280908894209?hideDiscrim=true)](https://discord.com/users/245047280908894209)
 
 
-When I'm not doing dev work, you can find me either watching anime or YouTube, playing games (most likely A Hat in Time), screaming at homework or my Ubuntu server (shell scripts are *fun*), wasting hours in various Discord Servers, or attempting to make food.
+## 🛠 Stuff I do
+Most of my projects are mostly just things I do for my own enjoyment or things that make mundane tasks easier (see [CustomEmojiUploader](https://github.com/CominAtYou/CustomEmojiUploader) or DesktopActions). Some are also just utilities (like [the Express backend for my website](https://github.com/CominAtYou/Spotify-Express-Backend))
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
