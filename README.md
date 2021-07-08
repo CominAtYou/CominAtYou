@@ -3,7 +3,7 @@
 I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of my time doing Discord bot and Android development, which is why a lot of my repositories are HTML and/or JS based (A lot of which are private repositories because they're personal projects).
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/245047280908894209?hideDiscrim=true)](https://discord.com/users/245047280908894209)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/245047280908894209?hideDiscrim=true&hideStatus=true)](https://discord.com/users/245047280908894209)
 
 
 ## 🎮 Stuff I do
