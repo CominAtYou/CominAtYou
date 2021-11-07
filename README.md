@@ -8,9 +8,9 @@ Most of my projects are mostly just things I do for my own enjoyment or things t
 In my spare time, I like to play a lot of my games. Some of my favorites include:
 - A Hat in Time
 - Celeste
-- Super Mario Galaxy
+- Forza Horizon 5 & 4
+- OneShot
 - Outer Wilds
-- No Man's Sky
 
 ## 🔨 Things I use
 I prefer TypeScript for most of my projects, but also use:
