@@ -1,6 +1,6 @@
 ### Hi there, I'm Comin. 👋
 
-I'm a high school student who spends most of my time playing video games and watching anime. I also spend a lot of my time doing Discord bot and Android development, which is why a lot of my repositories are HTML and/or JS based (A lot of which are private repositories because they're personal projects).
+I'm a high school student who spends most of my time playing video games and watching animated series. I also spend a lot of my time doing Discord bot and Android development, which is why a lot of my repositories are HTML and/or JS based (A lot of which are private repositories because they're personal projects).
 
 ## 🎮 Stuff I do
 Most of my projects are mostly just things I do for my own enjoyment or things that make mundane tasks easier (see [CustomEmojiUploader](https://github.com/CominAtYou/CustomEmojiUploader) or DesktopActions). Some are also just utilities (like [the Express backend for my website](https://github.com/CominAtYou/Spotify-Express-Backend))
