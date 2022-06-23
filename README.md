@@ -19,6 +19,8 @@ I prefer a variety of languages for most of my projects, but mostly use:
 - Python
 - JavaScript (Node)
 - HTML/CSS/JS
+
+I also use a lot of tools—namely Electron, Docker, Express, Linux environments (Debian on WSL/physical hardware), to name a few.
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
