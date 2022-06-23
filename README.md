@@ -1,6 +1,6 @@
 ### Hi there, I'm Comin. 👋
 
-I'm a high school student who spends most of my time doing Discord bot and Android development, which is why a lot of my repositories are Java and/or JS based (A lot of which are private repositories because they're personal projects).
+I'm a high school student who spends most of my time doing Discord bot and Android development, which is why a lot of my repositories are Java or JS-based (A lot of which are private repositories because they're personal projects).
 
 ## 🎮 Stuff I do
 Most of my projects are mostly just Android apps that I make for my own enjoyment or to make mundane tasks easier (see [Silverpoint](https://github.com/CominAtYou/Silverpoint) or [BatteryTile](https://github.com/CominAtYou/BatteryTile)
