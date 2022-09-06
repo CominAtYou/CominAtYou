@@ -15,12 +15,13 @@ In my spare time, I like to play a variety of (mostly indie) games. Some of my f
 
 ## 🔨 Things I use
 I prefer a variety of languages for most of my projects, but mostly use:
+- C#
 - Java
 - Python
 - JavaScript (Node)
 - HTML/CSS/JS
 
-I also use a lot of tools—namely Electron, Docker, Express, Linux environments (Debian on WSL/physical hardware), to name a few.
+I also use a lot of tools—namely Electron, .NET, Docker, Express, Linux environments (Debian on WSL/physical hardware), to name a few.
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
