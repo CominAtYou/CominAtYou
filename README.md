@@ -6,12 +6,12 @@ I'm a high school student who spends most of my time doing Discord bot and Andro
 Most of my projects are mostly just Android apps that I make for my own enjoyment or to make mundane tasks easier (for example, [Silverpoint](https://github.com/CominAtYou/Silverpoint) or [BatteryTile](https://github.com/CominAtYou/BatteryTile))
 
 In my spare time, I like to play a variety of (mostly indie) games. Some of my favorites include:
-- A Hat in Time
 - Celeste
 - Forza Horizon 5 & 4
+- A Hat in Time
+- Hollow Knight
 - OneShot
 - Outer Wilds
-- Hollow Knight
 
 ## 🔨 Things I use
 I prefer a variety of languages for most of my projects, but mostly use:
