@@ -14,7 +14,6 @@ I prefer a variety of languages and frameworks for my projects, but mainly use:
 - HTML + Tailwind + JS
 - C#
 - C/C++
-- 
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
