@@ -5,23 +5,16 @@ I'm a high school student who spends most of my time doing Discord bot and Andro
 ## 🎮 Stuff I do
 Most of my projects are mostly just Android apps that I make for my own enjoyment or to make mundane tasks easier (for example, [Silverpoint](https://github.com/CominAtYou/Silverpoint) or [BatteryTile](https://github.com/CominAtYou/BatteryTile))
 
-In my spare time, I like to play a variety of (mostly indie) games. Some of my favorites include:
-- Celeste
-- Forza Horizon 5 & 4
-- A Hat in Time
-- Hollow Knight
-- OneShot
-- Outer Wilds
+In my spare time, I like to play a variety of (mostly indie) games, or make art. 
 
 ## 🔨 Things I use
-I prefer a variety of languages for most of my projects, but mostly use:
-- C#
+I prefer a variety of languages and frameworks for my projects, but mainly use:
 - Java
-- Python
 - JavaScript (Node)
-- HTML/CSS/JS
-
-I also use a lot of tools—namely Electron, .NET, Docker, Express, Linux environments (Debian on WSL/physical hardware), to name a few.
+- HTML + Tailwind + JS
+- C#
+- C/C++
+- 
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
