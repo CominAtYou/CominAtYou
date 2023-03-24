@@ -10,7 +10,7 @@ In my spare time, I like to play a variety of (mostly indie) games, or make art.
 ## Things I use
 I prefer a variety of languages and frameworks for my projects, but mainly use:
 - Java
-- JavaScript (Node)
+- JavaScript/TS (Node)
 - HTML + Tailwind + JS
 - C#
 - C/C++
