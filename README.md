@@ -1,4 +1,4 @@
-## Hi there, I'm Comin.
+## Hi there!
 
 I'm a soon-to-be CS student student who spends most of my time working on random projects that I come up with on a whim, or sometimes contributing to others' projects that I find useful.
 
