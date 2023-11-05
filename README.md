@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a soon-to-be CS student student who spends most of my time working on random projects that I come up with on a whim, or sometimes contributing to others' projects that I find useful.
+I'm a CS student student who spends most of my time working on random projects that I come up with on a whim, or sometimes contributing to others' projects that I find useful.
 
 ## Things I use
 I prefer a variety of languages and frameworks for my projects, but mainly use:
