@@ -6,8 +6,9 @@ I'm a CS student student who spends most of my time working on random projects t
 I prefer a variety of languages and frameworks for my projects, but mainly use:
 - Java
 - JavaScript/TS (Node)
-- HTML + Tailwind + JS
-- C#
+- HTML + Tailwind/CSS + JS
+- React
+- Swift + SwiftUI
 - C/C++
 <!--
 **CominAtYou/CominAtYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
